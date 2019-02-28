@@ -216,7 +216,6 @@ namespace SerialClient
 
         
 
-        public PlotModel ChartModel { get; private set; }
 
         XBTOxyPlot Oxy = new XBTOxyPlot();
     }
